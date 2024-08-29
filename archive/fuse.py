@@ -9,7 +9,7 @@ import torch
 import torch.backends.cudnn
 from tqdm import tqdm
 
-from archive.model import Fuser
+from model import Fuser
 
 
 class Fuse:
